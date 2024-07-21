@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋🏼 I'm Rachael
 
-<!--
-**reokdev/reokdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Front-End Web Developer | Lancashire, UK
 
-Here are some ideas to get you started:
+I'm passionate about creating beautiful, intuitive, and responsive websites that provide exceptional user experiences. With a keen eye for design and a love for clean, efficient code, I specialize in translating ideas into fully functional web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+
+- Develop responsive and user-friendly web interfaces
+- Create visually appealing designs that enhance user experience
+- Write clean, efficient, and maintainable code
+- Transform concepts into fully functional web applications
+
+### 💻 My Skills
+
+- HTML5, CSS3, JavaScript
+- React.js, Next.js
+- Responsive Web Design
+- Version Control (Git)
+- UI/UX Design Principles
+
+
+### 📫 Get in Touch
+
+- LinkedIn: [Rachael Oldham-Knott](https://www.linkedin.com/in/roldhamk)
+- Email: [your.email@example.com](mailto:reokwebdev@gmail.com)
+- Portfolio: [My Portfolio](https://main.d21hvd2ycd48ld.amplifyapp.com/)
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
