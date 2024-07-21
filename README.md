@@ -23,7 +23,7 @@ I'm passionate about creating beautiful, intuitive, and responsive websites that
 ### 📫 Get in Touch
 
 - LinkedIn: [Rachael Oldham-Knott](https://www.linkedin.com/in/roldhamk)
-- Email: [your.email@example.com](mailto:reokwebdev@gmail.com)
+- Email: [reokwebdev@gmail.com](mailto:reokwebdev@gmail.com)
 - Portfolio: [My Portfolio](https://main.d21hvd2ycd48ld.amplifyapp.com/)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
